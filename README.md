@@ -1,2 +1,1 @@
-# 2Prepcourse
-1er repositorio creado desde la nube, hacia mi vsc
+este proyecto de preuba de como crear un repositorio y clonarlo desde github a mi escritorio
